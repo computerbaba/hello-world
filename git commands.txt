@@ -1,0 +1,20 @@
+git init					> to create local reposistory
+
+git remote add origin "url of ur reposistroy"	> to connect repo to ur local
+
+git pull origin master				> to copy repo to ur local
+git push origin master			> to commit changes to main repo (web)
+
+git status					> to check the status of ur repo
+
+git add					> to add ur new file / change
+git add -A					> to add multiple files at once
+
+git commit -m "my first commit"		> to commit the changes	
+
+git log					
+
+git branch	 <name of branch>			> to create the branch
+
+git checkout <name of branch>			> to change the directory to ur branch
+								
